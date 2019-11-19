@@ -61,7 +61,7 @@ Step 2: Explore 23rd & 6th
 
 * There is one vertex adjacent to 23rd and 6th: 14th & 6th.  So we mark 14th and 6th as visited and set its distance from 34th & 6th as 1 + distance of vertex that led to its discovery.  So the distance of 14th & 6th from 23rd & 6th is 2.
 * We move 23rd & 6th from being a visited vertex to an explored vertex.
-* Next up to explore is the bottom most visited vertex, which is 28th and 6th.
+* Next up to explore is the bottom most visited vertex, which is 28th and Broadway.
 
 ![](https://s3-us-west-2.amazonaws.com/curriculum-content/algorithms/subwaydistance2.png)
 
